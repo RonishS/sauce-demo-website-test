@@ -4,8 +4,6 @@ Sauce Demo Login Page
 Project Overview
 This repository contains test cases for the Sauce Demo Login Page. The primary focus of the project is to validate the login functionality under different scenarios and provide insights into potential issues or areas of improvement.
 
-Project Details
-Project Name: Sauce Demo Login Page
 Created by: Ronish Shrestha
 Creation Date: 9/5/2024
 
