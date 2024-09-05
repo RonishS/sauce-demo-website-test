@@ -6,10 +6,9 @@ This repository contains test cases for the Sauce Demo Login Page. The primary f
 
 Project Details
 Project Name: Sauce Demo Login Page
-Module Name: Login
 Created by: Ronish Shrestha
 Creation Date: 9/5/2024
-Reviewed Date: 9/5/2024
+
 User Stories
 As a user, I should be able to log in to the Sauce Demo page.
 
